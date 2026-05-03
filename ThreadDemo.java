@@ -1,3 +1,4 @@
+// Program to Create Thread by Extending Thread Class
 import java.io.*;
 
 class MyThread extends Thread {
